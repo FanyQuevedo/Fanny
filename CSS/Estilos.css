@@ -1,0 +1,31 @@
+*{
+background-color: rgb(175, 97, 24);
+color: black;
+}
+h1{
+    color: rgb(255, 255, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+img{
+    height:500px;
+}
+
+
+div{
+    display: flex;
+    justify-content: center;
+}
+
+div:hover {
+    background-color: rgb(255, 255, 255);
+}
+#Boton1{
+   color: cornsilk; 
+   border-style: outset;
+   border-radius: 0.5cm;
+}
+#Boton2{
+    color: cornsilk; 
+    border-style: outset;
+    border-radius: 0.2cm;
+ }
